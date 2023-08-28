@@ -4,4 +4,4 @@ This repository covers the Risk Management part of the course that introduce Pyt
 
 The notebook gives an introduction to Value-at-Risk and Expected Shortfall estimations through different methods and also explain the concept of drawdown. The data is historical end of day price for a universe of US Stocks.
 
-*Note : the notebook is written in french language*
+*Note : the notebook is written in french language.*
